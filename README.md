@@ -1,1 +1,6 @@
-Quick notes on deploy
+Local tests:
+```
+jekyll build
+jekyll serve
+http://localhost:4000
+```
