@@ -7,15 +7,16 @@ description: About | Yaroslava Lochman
 
 [Google Scholar](https://scholar.google.com/citations?user=9tfA7cMAAAAJ&hl=en) · [GitHub](https://github.com/ylochman) · [LinkedIn](https://www.linkedin.com/in/yaroslava-lochman-008408129/)
 
-My research focuses on robust methods for auto-calibrating cameras with severe lens aberrations. Prior, I developed deep learning models for semantic segmentation, boundary object detection, and studied geometry-aware deep representations for dense feature matching and symmetry detection. Currently, I am particularly interested in combining geometry and machine learning for 3D vision.
+My research focuses on robust methods for auto-calibrating cameras with severe lens aberrations. Prior, I developed deep learning models for semantic segmentation, boundary object detection, and studied geometry-aware deep representations for dense feature matching and symmetry detection. Currently, I am very interested in combining geometry and machine learning for 3D vision.
 
 ---
 
 #### News
 
 Feb 2020: | Started a Research Internship at [Facebook Reality Labs][frl] in Pittsburgh.
-Dec 2020: | Organised a [Computer Vision course](https://github.com/ucuapps/computer-vision-course) for CS bachelors at [UCU][ucu].
-Sep 2019: | Got a scholarship for conducting research in the [MLLab][mllab] at [UCU][ucu].
+Jan 2020: | Presented my [Master's Thesis](http://er.ucu.edu.ua/bitstream/handle/1/2039/Lochman_Minimal%20Solvers%20for%20Single.pdf) at [Ukrainian Catholic University (UCU)][ucu].
+Dec 2019: | Organised a [Computer Vision course](https://github.com/ucuapps/computer-vision-course) for CS bachelors at [UCU][ucu].
+Sep 2019: | Got a scholarship for conducting research in the [Machine Learning Lab][mllab] at [UCU][ucu].
 
 [ucu]: https://apps.ucu.edu.ua/en
 [mllab]: https://apps.ucu.edu.ua/en/mllab
