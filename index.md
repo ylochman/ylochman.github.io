@@ -1,22 +1,32 @@
 ---
 layout: page
 title: Yaroslava Lochman
-tagline: About
-description: About | Yaroslava Lochman
+tagline: 
+description: Yaroslava Lochman
 ---
 
-[Google Scholar](https://scholar.google.com/citations?user=9tfA7cMAAAAJ&hl=en) · [GitHub](https://github.com/ylochman) · [LinkedIn](https://www.linkedin.com/in/yaroslava-lochman-008408129/)
+[Google Scholar](https://scholar.google.com/citations?user=9tfA7cMAAAAJ) · [GitHub](https://github.com/ylochman) · [LinkedIn](https://www.linkedin.com/in/yaroslava-lochman-008408129/)
+
+From Feb to Aug 2020 I was a research intern at [Facebook Reality Labs][frl] in Pittsburgh under supervision of [James Pritts](https://prittjam.github.io) and [Michal Perdoch](https://scholar.google.com/citations?user=0Y_LBNIAAAAJ).
+
+I received my MSc in Jan 2020 at [Ukrainian Catholic University (UCU)][ucu]. During my master's studies, I conducted research in the [Machine Learning Lab][mllab]. There I was advised by [James Pritts](https://prittjam.github.io).
 
 My research focuses on robust methods for auto-calibrating cameras with severe lens aberrations. Prior, I developed deep learning models for semantic segmentation, boundary object detection, and studied geometry-aware deep representations for dense feature matching and symmetry detection. Currently, I am very interested in combining geometry and machine learning for 3D vision.
 
----
+<!-- ---
 
 #### News
-
-Feb 2020: | Started a Research Internship at [Facebook Reality Labs][frl] in Pittsburgh.
-Jan 2020: | Presented my [Master's Thesis](http://er.ucu.edu.ua/bitstream/handle/1/2039/Lochman_Minimal%20Solvers%20for%20Single.pdf) at [Ukrainian Catholic University (UCU)][ucu].
-Dec 2019: | Organised a [Computer Vision course](https://github.com/ucuapps/computer-vision-course) for CS bachelors at [UCU][ucu].
-Sep 2019: | Got a scholarship for conducting research in the [Machine Learning Lab][mllab] at [UCU][ucu].
+<style>
+.date {
+  color:darkgrey;
+  font-size:small;
+  vertical-align:bottom;
+} 
+</style>
+<span class="date">**Feb 2020:**</span> | Started a Research Internship at [Facebook Reality Labs][frl] in Pittsburgh.
+<span class="date">**Jan 2020:**</span> | Presented my [Master's Thesis](http://er.ucu.edu.ua/bitstream/handle/1/2039/Lochman_Minimal%20Solvers%20for%20Single.pdf) at [Ukrainian Catholic University (UCU)][ucu].
+<span class="date">**Dec 2019:**</span> | Organised a [Computer Vision course](https://github.com/ucuapps/computer-vision-course) for CS bachelors at [UCU][ucu].
+<span class="date">**Sep 2018:**</span> | Obtained a scholarship for conducting research in the [Machine Learning Lab][mllab] at [UCU][ucu]. -->
 
 [ucu]: https://apps.ucu.edu.ua/en
 [mllab]: https://apps.ucu.edu.ua/en/mllab
