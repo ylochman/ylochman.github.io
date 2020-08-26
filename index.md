@@ -36,17 +36,11 @@ My research focuses on robust methods for auto-calibrating cameras with severe l
 
 ### Publications
 
-**Minimal Solvers for Single-View Auto-Calibration**  
-**Y. Lochman**, [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts]  
-In [WACV](http://wacv2021.thecvf.com) 2021 · Oral · release soon
-
-**Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**  
-[J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum]  
-In [TPAMI](https://ieeexplore.ieee.org/document/9086062) 2020 · [arxiv](https://arxiv.org/pdf/1911.01507.pdf) · [code][repeats] · [bibtex](pages/bibtex/pami20.html)
-
-**Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**  
-[J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum]  
-In [IJCV](https://link.springer.com/article/10.1007/s11263-019-01216-x) 2020 · [arxiv](https://arxiv.org/pdf/1911.01507.pdf) · [code][repeats] · [bibtex](pages/bibtex/ijcv20.html)
+<img src="./assets/thumbnails/wacv21.png" width="350"/> || **Minimal Solvers for Single-View Auto-Calibration** <br> **Y. Lochman**, [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] <br> In [WACV](http://wacv2021.thecvf.com) 2021 · Oral · release soon
+||
+<img src="./assets/thumbnails/pami20.png" width="350"/> || **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations** <br> [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [TPAMI][tpami20] 2020 · [arxiv][tpami20-arxiv] · [code][repeats] · [bibtex](pages/bibtex/pami20.html)
+||
+<img src="./assets/thumbnails/ijcv20.png" width="350"/> || **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**<br>[J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](pages/bibtex/ijcv20.html)
 
 
 [jbpritts]: https://scholar.google.com/citations?user=fvTKAEUAAAAJ
@@ -59,3 +53,8 @@ In [IJCV](https://link.springer.com/article/10.1007/s11263-019-01216-x) 2020 · 
 [repeats]: https://github.com/prittjam/repeats
 [autocalib]: https://github.com/ylochman/autocalib
 
+[tpami20]: https://ieeexplore.ieee.org/document/9086062
+[tpami20-arxiv]: https://arxiv.org/pdf/1911.01507.pdf
+
+[ijcv20]: https://link.springer.com/article/10.1007/s11263-019-01216-x
+[ijcv20-arxiv]: https://arxiv.org/pdf/1907.11539.pdf
