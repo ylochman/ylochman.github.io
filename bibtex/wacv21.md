@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: Minimal Solvers for Single-View Auto-Calibration
 description: (bibtex) Minimal Solvers for Single-View Auto-Calibration
 ---

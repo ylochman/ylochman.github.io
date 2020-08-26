@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations
 description: (bibtex) Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations
 ---

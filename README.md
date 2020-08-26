@@ -1,0 +1,1 @@
+Adapted from [Hyde](https://github.com/poole/hyde).

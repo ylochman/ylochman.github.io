@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: subpage
 title: Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales
 description: (bibtex) Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales
 ---
