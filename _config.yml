@@ -1,21 +1,23 @@
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-gist
 
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
+# markdown: redcarpet
 
-# Permalinks
-permalink: /:categories/:year/:month/:day/:title
-
-# Setup
 title:            'Yaroslava Lochman'
-description:      ''
+description:      'Yaroslava Lochman'
 url:              https://ylochman.github.io
-production_url:   https://ylochman.github.io
-baseurl:          /
+baseurl:          ''
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name: Yaroslava
+  url: https://ylochman.github.io
 
-paginate:         5
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md

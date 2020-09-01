@@ -1,9 +1,11 @@
 ---
-layout: subpage
+layout: page
 title: About
 tagline: Yaroslava Lochman
 description: Yaroslava Lochman
 ---
+
+As of Dec 2020, I will start PhD at Chalmers University.
 
 From Feb to Aug 2020 I was a research intern at [Facebook Reality Labs][frl] in Pittsburgh under supervision of [James Pritts](https://prittjam.github.io) and [Michal Perdoch](https://scholar.google.com/citations?user=0Y_LBNIAAAAJ).
 

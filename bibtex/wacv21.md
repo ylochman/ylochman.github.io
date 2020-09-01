@@ -11,6 +11,6 @@ description: (bibtex) Minimal Solvers for Single-View Auto-Calibration
                   Hryniv, Rostyslav and
                   Pritts, James },
   title     = {Minimal Solvers for Single-View Auto-Calibration}, 
-  year      = {2020},
+  year      = {2021},
 }
 ```

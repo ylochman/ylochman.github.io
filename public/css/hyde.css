@@ -73,7 +73,7 @@ html {
 
 /* About section */
 .sidebar-about {
-  font-size: 1.7em;
+  font-size: 1.75em;
   color: rgb(151, 151, 151);
   font-family: serif;
   letter-spacing: 0px;
@@ -90,7 +90,7 @@ html {
   margin-top: 0;
   font-family: serif;
   display: inline;
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: normal;
   letter-spacing: 1px;
 }
