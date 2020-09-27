@@ -34,9 +34,9 @@
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
 }
-@media (min-width: 48em) {
+@media (min-width: 65em) {
   html {
-    font-size: 18px;
+    font-size: 20px;
   }
 }
 
@@ -50,18 +50,18 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 22.5%;
+  padding: 2rem 10%;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 48em) {
+@media (min-width: 65em) {
   .sidebar {
     padding: 2rem 7.5em;
     position: fixed;
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18em;
+    width: 22em;
     text-align: left;
   }
 }
@@ -69,11 +69,26 @@ html {
 /* Sidebar links */
 .sidebar a {
   color: #fff;
+  font-size: 1.1em;
+}
+
+.sidebar-name {
+  display: block;
+  display: inline;
+  line-height: 2;
+}
+a.sidebar-name:hover,
+a.sidebar-name:focus {
+  text-decoration: inherit;
+  color: #268bd2;
+}
+.sidebar-name.active {
+  color: #268bd2;
 }
 
 /* About section */
 .sidebar-about {
-  font-size: 1.75em;
+  font-size: 40px;
   color: rgb(151, 151, 151);
   font-family: serif;
   letter-spacing: 0px;
@@ -97,13 +112,19 @@ html {
 
 /* Sidebar nav */
 .sidebar-nav {
+  padding: 2rem 20%;
   margin-bottom: 1rem;
-  border-bottom: 1px solid rgba(255,255,255,.1);
+}
+@media (min-width: 65em) {
+  .sidebar-nav {
+    padding: 0rem 0%;
+  }
 }
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
   border-top: 1px solid rgba(255,255,255,.1);
+  border-bottom: 1px solid rgba(255,255,255,.1);
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus,
@@ -118,9 +139,10 @@ a.sidebar-nav-item:focus,
 }
 .sidebar-contact-item {
   display: block;
-  line-height: 1.75;
-  font-size: smaller;
   display: inline;
+}
+a.sidebar-contact-item{
+  color: rgb(151, 151, 151);
 }
 a.sidebar-contact-item:hover,
 a.sidebar-contact-item:focus {
@@ -137,11 +159,11 @@ a.sidebar-contact-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 
-@media (min-width: 48em) {
+@media (min-width: 65em) {
   .sidebar-sticky {
     position: absolute;
     right:  1rem;
-    top: 3.7rem;
+    top: 2rem;
     left:   1rem;
   }
   .sidebar-sticky-nopad{
@@ -170,43 +192,29 @@ a.sidebar-contact-item:focus {
   padding-bottom: 4rem;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 65em) {
   .content {
-    max-width: 58rem;
-    margin-left: 22rem;
-    margin-right: 4rem;
+    min-width: 27rem;
+    max-width: 27rem;
+    margin-left: 45%;
+    /* margin-right: 3rem; */
+  }
+}
+
+@media (min-width: 80em) {
+  .content {
+    min-width: 27rem;
+    max-width: 40rem;
+    margin-left: 29em;
+    margin-right: 9rem;
   }
 }
 
 @media (min-width: 128em) {
   .content {
     max-width: 68rem;
-    margin-left: 30rem;
-    margin-right: 8rem;
-  }
-}
-
-/*
- * Reverse layout
- *
- * Flip the orientation of the page by placing the `.sidebar` on the right.
- */
-
-@media (min-width: 48em) {
-  .layout-reverse .sidebar {
-    left: auto;
-    right: 0;
-  }
-  .layout-reverse .content {
-    margin-left: 2rem;
-    margin-right: 20rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .layout-reverse .content {
-    margin-left: 4rem;
-    margin-right: 22rem;
+    margin-left: 40rem;
+    margin-right: 50rem;
   }
 }
 

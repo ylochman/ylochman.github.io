@@ -5,11 +5,12 @@ tagline: Yaroslava Lochman
 description: Yaroslava Lochman
 ---
 
-From Feb to Aug 2020 I was a research intern at [Facebook Reality Labs][frl] in Pittsburgh under supervision of [James Pritts](https://prittjam.github.io) and [Michal Perdoch](https://scholar.google.com/citations?user=0Y_LBNIAAAAJ).
-
-I received my MSc in Jan 2020 at [Ukrainian Catholic University (UCU)][ucu]. During my master's studies, I conducted research in the [Machine Learning Lab][mllab]. There I was advised by [James Pritts](https://prittjam.github.io).
+In Dec 2020 I will start a PhD at Chalmers University of Technology working on the topic of Non-Rigid Structure from Motion. From Feb to Aug 2020 I was a research intern at [Facebook Reality Labs][frl] in Pittsburgh under supervision of [James Pritts](https://prittjam.github.io) and [Michal Perdoch](https://scholar.google.com/citations?user=0Y_LBNIAAAAJ). I received my MSc in Jan 2020 at [Ukrainian Catholic University (UCU)][ucu] where I also conducted research in the [Machine Learning Lab][mllab], advised by [James Pritts](https://prittjam.github.io).
 
 My research focuses on robust methods for auto-calibrating cameras with severe lens aberrations. Prior, I developed deep learning models for semantic segmentation, boundary object detection, and studied geometry-aware deep representations for dense feature matching and symmetry detection. Currently, I am very interested in combining geometry and machine learning for 3D vision.
+
+
+
 
 [ucu]: https://apps.ucu.edu.ua/en
 [mllab]: https://apps.ucu.edu.ua/en/mllab
