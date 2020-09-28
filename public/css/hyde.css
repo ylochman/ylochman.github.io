@@ -79,7 +79,7 @@ html {
 .sidebar-name {
   display: block;
   display: inline;
-  line-height: 2;
+  line-height: 1;
   margin-right: -5em;
   margin-left: -5em;
 }
@@ -165,7 +165,7 @@ a.sidebar-contact-item:focus {
  * contents to the bottom of the sidebar in tablets and up.
  */
 .sidebar-sticky{
-  margin-top: -1.5em;
+  margin-top: -1em;
   margin-bottom: -2em;
 }
 .sidebar-sticky-nopad{
@@ -176,6 +176,7 @@ a.sidebar-contact-item:focus {
 }
 @media (min-width: 65em) {
   .sidebar-sticky {
+    margin-top: 1em;
     position: absolute;
     right:  1rem;
     top: 2rem;
@@ -184,7 +185,7 @@ a.sidebar-contact-item:focus {
   .sidebar-sticky-nopad{
     position: absolute;
     right:  -1rem;
-    top: 9.7rem;
+    top: 11rem;
     left:   -1rem;
   }
   .sidebar-sticky-footnote {
