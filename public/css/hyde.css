@@ -48,6 +48,10 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
+ /* position: absolute;
+  right:  1rem;
+  top: 1rem;
+  left:   1rem; */
 .sidebar {
   text-align: center;
   padding: 2rem 10%;
@@ -158,7 +162,16 @@ a.sidebar-contact-item:focus {
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
  * contents to the bottom of the sidebar in tablets and up.
  */
-
+.sidebar-sticky{
+  margin-top: -1.5em;
+  margin-bottom: -2em;
+}
+.sidebar-sticky-nopad{
+  margin-bottom: -3em;
+}
+.sidebar-sticky-footnote {
+  margin-bottom: -1.5em;
+}
 @media (min-width: 65em) {
   .sidebar-sticky {
     position: absolute;
