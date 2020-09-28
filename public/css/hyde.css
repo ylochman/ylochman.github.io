@@ -80,8 +80,8 @@ html {
   display: block;
   display: inline;
   line-height: 2;
-  margin-right: -2em;
-  margin-left: -2em;
+  margin-right: -5em;
+  margin-left: -5em;
 }
 a.sidebar-name:hover,
 a.sidebar-name:focus {
