@@ -84,7 +84,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 h2 {
   margin-top: 1rem;
@@ -225,7 +225,7 @@ blockquote p:last-child {
 
 img {
   display: block;
-  min-width: 7.5em;
+  min-width: 5em;
   max-width: 100%;
   margin: 0 0 1rem;
   border-radius: 0px;
@@ -326,7 +326,7 @@ th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 2em;
 }
 
 /* Blog post or page title */

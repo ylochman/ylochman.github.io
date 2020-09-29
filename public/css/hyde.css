@@ -33,10 +33,16 @@
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 14px;
 }
 @media (min-width: 65em) {
   html {
-    font-size: 20px;
+    font-size: 18px;
+  }
+}
+@media (min-width: 65em) {
+  html {
+    font-size: 18px;
   }
 }
 
@@ -54,11 +60,11 @@ html {
   left:   1rem; */
 .sidebar {
   text-align: center;
-  padding: 2rem 10%;
+  padding: 1.75rem 10%;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 65em) {
+/* @media (min-width: 65em) {
   .sidebar {
     padding: 2rem 7.5em;
     position: fixed;
@@ -67,19 +73,19 @@ html {
     bottom: 0;
     width: 22em;
     text-align: left;
-  }
-}
+  } */
+/* } */
 
 /* Sidebar links */
 .sidebar a {
   color: #fff;
-  font-size: 1em;
+  font-size: 2.25rem;
 }
 
 .sidebar-name {
   display: block;
   display: inline;
-  line-height: 1;
+  line-height: 1rem;
   margin-right: -5em;
   margin-left: -5em;
 }
@@ -121,11 +127,11 @@ a.sidebar-name:focus {
   padding: 2rem 20%;
   margin-bottom: 1rem;
 }
-@media (min-width: 65em) {
+/* @media (min-width: 65em) {
   .sidebar-nav {
     padding: 0rem 0%;
   }
-}
+} */
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
@@ -142,6 +148,8 @@ a.sidebar-nav-item:focus,
 
 .sidebar-contact {
   margin-bottom: 1rem;
+  line-height: 1.25;
+  font-size: 1rem;
 }
 .sidebar-contact-item {
   display: block;
@@ -174,7 +182,7 @@ a.sidebar-contact-item:focus {
 .sidebar-sticky-footnote {
   margin-bottom: -1.5em;
 }
-@media (min-width: 65em) {
+/* @media (min-width: 65em) {
   .sidebar-sticky {
     margin-top: 1em;
     position: absolute;
@@ -194,7 +202,7 @@ a.sidebar-contact-item:focus {
     bottom: 1rem;
     left:   1rem;
   }
-}
+} */
 
 
 /* Container
@@ -204,16 +212,15 @@ a.sidebar-contact-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    1rem;
+  padding-bottom: 1rem;
 }
 
-@media (min-width: 65em) {
+/* @media (min-width: 65em) {
   .content {
     min-width: 27rem;
     max-width: 27rem;
     margin-left: 45%;
-    /* margin-right: 3rem; */
   }
 }
 
@@ -232,7 +239,7 @@ a.sidebar-contact-item:focus {
     margin-left: 40rem;
     margin-right: 50rem;
   }
-}
+} */
 
 
 
