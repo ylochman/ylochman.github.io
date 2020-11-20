@@ -84,7 +84,12 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 1.75rem;
+  font-size: 1.25rem;
+}
+@media (min-width: 65em) {
+  h1 {
+    font-size: 1.75rem;
+  }
 }
 h2 {
   margin-top: 1rem;

@@ -15,7 +15,7 @@ This paper proposes minimal solvers that use combinations of imaged translationa
 
 
 ### Citing
-```tex
+```bibtex
 @InProceedings{Lochman-WACV21,
     title     = {Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration},
     author    = {Lochman, Yaroslava and Dobosevych, Oles and Hryniv, Rostyslav and Pritts, James},
