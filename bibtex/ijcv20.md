@@ -4,18 +4,14 @@ title: Minimal Solvers for Rectifying from Radially-Distorted Scales and Change 
 description: (bibtex) Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales
 ---
 
-```
-@article{Pritts-IJCV20,
-    author    = { Pritts, James and
-                  Kukelova, Zuzana and
-                  Larsson, Viktor and
-                  Lochman, Yaroslava and
-                  Chum, Ond{\v{r}}ej },
-    title     = { Minimal Solvers for Rectifying from   Radially-Distorted Scales and Change of Scales },
-    journal   = { Int. J. Comput. Vis. },
-    volume    = { 128 },
-    number    = { 4 },
-    pages     = { 950--968 },
-    year      = { 2020 },
+```bibtex
+@Article{Pritts-IJCV20,
+    title     = {Minimal Solvers for Rectifying from   Radially-Distorted Scales and Change of Scales},
+    author    = {Pritts, James and Kukelova, Zuzana and Larsson, Viktor and Lochman, Yaroslava and Chum, Ond{\v{r}}ej},
+    journal   = {International Journal of Computer Vision},
+    volume    = {128},
+    number    = {4},
+    pages     = {950--968},
+    year      = {2020},
 }
 ```

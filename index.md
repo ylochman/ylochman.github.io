@@ -16,8 +16,6 @@ I received my MSc in Jan 2020 at [Ukrainian Catholic University (UCU)][ucu] wher
 My research interests include geometry and machine learning, in particular, applied for *Scene Understanding*, *3D Reconstruction*, and *Visual Localization*.
 
 
-
-
 [ucu]: https://apps.ucu.edu.ua/en
 [mllab]: https://apps.ucu.edu.ua/en/mllab
 [frl]: https://tech.fb.com/codec-avatars-facebook-reality-labs
@@ -26,9 +24,14 @@ My research interests include geometry and machine learning, in particular, appl
 
 # Publications
 
-<img src="./assets/thumbnails/wacv21.png" width="300"/> || **Minimal Solvers for Single-View Auto-Calibration** <br> **Y. Lochman**, [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] <br> In [WACV](http://wacv2021.thecvf.com) 2021 · Oral · release soon
-<img src="./assets/thumbnails/pami20.png" width="300"/> || **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations** <br> [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [TPAMI][tpami20] 2020 · [arxiv][tpami20-arxiv] · [code][repeats] · [bibtex](bibtex/pami20.html)
-<img src="./assets/thumbnails/ijcv20.png" width="300"/> || **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**<br>[J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](bibtex/ijcv20.html)
+[<img src="./assets/thumbnails/wacv21.png" class="img-fluid" align="left"/>](pub/wacv21.html) 
+[**Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration**](pub/wacv21.html) <br> **Y. Lochman**, [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] <br> In [WACV](http://wacv2021.thecvf.com) 2021 · Oral · [arxiv][wacv21-arxiv] · [code][autocalib] · [bibtex](bibtex/wacv21.html)
+
+<br>
+<img src="./assets/thumbnails/pami20.png" class="img-fluid" align="left"/> **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations** <br> [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [TPAMI][tpami20] 2020 · [arxiv][tpami20-arxiv] · [code][repeats] · [bibtex](bibtex/pami20.html)
+
+<br> 
+<img src="./assets/thumbnails/ijcv20.png" class="img-fluid" align="left"/> **Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**<br>[J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br> In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](bibtex/ijcv20.html)
 
 [jbpritts]: https://scholar.google.com/citations?user=fvTKAEUAAAAJ
 [zkukelova]: https://scholar.google.com/citations?user=M4a3VyYAAAAJ
@@ -37,11 +40,13 @@ My research interests include geometry and machine learning, in particular, appl
 [odobosevych]: https://scholar.google.com/citations?user=Zg-YKKQAAAAJ
 [rhryniv]: https://scholar.google.com/citations?user=VqhpE1QAAAAJ
 
-[repeats]: https://github.com/prittjam/repeats
-[autocalib]: https://github.com/ylochman/autocalib
-
 [tpami20]: https://ieeexplore.ieee.org/document/9086062
 [tpami20-arxiv]: https://arxiv.org/pdf/1911.01507.pdf
+[repeats]: https://github.com/prittjam/repeats
 
 [ijcv20]: https://link.springer.com/article/10.1007/s11263-019-01216-x
 [ijcv20-arxiv]: https://arxiv.org/pdf/1907.11539.pdf
+
+[wacv21-arxiv]: https://arxiv.org/abs/2011.08988
+[autocalib]: https://github.com/ucuapps/single-view-autocalib
+<br> 

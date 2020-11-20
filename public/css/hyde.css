@@ -33,19 +33,13 @@
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
 }
 @media (min-width: 65em) {
   html {
     font-size: 18px;
   }
 }
-@media (min-width: 65em) {
-  html {
-    font-size: 18px;
-  }
-}
-
 
 /*
  * Sidebar
@@ -54,27 +48,12 @@ html {
  * out above content in mobile and later moves to the side with wider viewports.
  */
 
- /* position: absolute;
-  right:  1rem;
-  top: 1rem;
-  left:   1rem; */
 .sidebar {
   text-align: center;
   padding: 1.75rem 10%;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-/* @media (min-width: 65em) {
-  .sidebar {
-    padding: 2rem 7.5em;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    width: 22em;
-    text-align: left;
-  } */
-/* } */
 
 /* Sidebar links */
 .sidebar a {
@@ -127,11 +106,6 @@ a.sidebar-name:focus {
   padding: 2rem 20%;
   margin-bottom: 1rem;
 }
-/* @media (min-width: 65em) {
-  .sidebar-nav {
-    padding: 0rem 0%;
-  }
-} */
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
@@ -182,27 +156,6 @@ a.sidebar-contact-item:focus {
 .sidebar-sticky-footnote {
   margin-bottom: -1.5em;
 }
-/* @media (min-width: 65em) {
-  .sidebar-sticky {
-    margin-top: 1em;
-    position: absolute;
-    right:  1rem;
-    top: 2rem;
-    left:   1rem;
-  }
-  .sidebar-sticky-nopad{
-    position: absolute;
-    right:  -1rem;
-    top: 11rem;
-    left:   -1rem;
-  }
-  .sidebar-sticky-footnote {
-    position: absolute;
-    right:  1rem;
-    bottom: 1rem;
-    left:   1rem;
-  }
-} */
 
 
 /* Container
@@ -214,32 +167,20 @@ a.sidebar-contact-item:focus {
 .content {
   padding-top:    1rem;
   padding-bottom: 1rem;
+  margin: auto;
 }
-
-/* @media (min-width: 65em) {
+@media (min-width: 65em) {
   .content {
-    min-width: 27rem;
-    max-width: 27rem;
-    margin-left: 45%;
+    max-width: 54em;
   }
 }
-
-@media (min-width: 80em) {
-  .content {
-    min-width: 27rem;
-    max-width: 40rem;
-    margin-left: 29em;
-    margin-right: 9rem;
-  }
-}
-
 @media (min-width: 128em) {
   .content {
     max-width: 68rem;
     margin-left: 40rem;
     margin-right: 50rem;
   }
-} */
+}
 
 
 
@@ -322,4 +263,10 @@ a.sidebar-contact-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
+}
+
+.img-fluid {
+  width: 10em;
+  height: auto;
+  margin-right: 1em;
 }
