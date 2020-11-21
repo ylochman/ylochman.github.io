@@ -13,7 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-
 /*
  * Contents
  *
@@ -31,9 +30,54 @@
  * Update the foundational and global aspects of the page.
  */
 
+@font-face {
+  font-display: swap;
+  font-family: Castoro;
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Castoro/Castoro-Regular.ttf')
+}
+@font-face {
+ font-display: swap;
+ font-family: Castoro;
+ font-style: italic;
+ font-weight: 400;
+ src: url('fonts/Castoro/Castoro-Italic.ttf')
+}
+
+@font-face {
+  font-display: swap;
+  font-family: PlayfairDisplay;
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf')
+}
+@font-face {
+  font-display: swap;
+  font-family: PlayfairDisplaySC;
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/PlayfairDisplaySC/PlayfairDisplaySC-Regular.ttf')
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Palanquin;
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Palanquin/Palanquin-Regular.ttf')
+}
+
 html {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: serif;
   font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: -0.02rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
 }
 @media (min-width: 65em) {
   html {
@@ -41,27 +85,33 @@ html {
   }
 }
 
-/*
- * Sidebar
- *
- * Flexible banner for housing site name, intro, and "footer" content. Starts
- * out above content in mobile and later moves to the side with wider viewports.
- */
+.story {
+  font-family: "Palanquin", sans-serif;
+}
+
+.publication {
+  font-family: "Castoro";
+}
 
 .sidebar {
   text-align: center;
   padding: 1.75rem 10%;
   color: rgba(255,255,255,.5);
   background-color: #202020;
+  font-size: 16px;
 }
 
-/* Sidebar links */
+@media (min-width: 65em) {
+  .sidebar {
+    font-size: 18px;
+  }
+}
 .sidebar a {
   color: #fff;
-  font-size: 2.25rem;
+  font-size: 2rem;
 }
-
 .sidebar-name {
+  font-family: "PlayfairDisplaySC";
   display: block;
   display: inline;
   line-height: 1rem;

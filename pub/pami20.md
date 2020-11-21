@@ -1,12 +1,12 @@
 ---
-layout: subpage
+layout: publication
 title: Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations
 description: (bibtex) Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations
 ---
 
-J. Pritts, Z. Kukelova, V. Larsson, Y. Lochman
+[James Pritts][jbpritts], [Zuzana Kukelova][zkukelova], [Viktor Larsson][vlarsson], [Yaroslava Lochman][ylochman], [Ondřej Chum][ochum]
 
-*Transactions on Pattern Analysis and Machine Intelligence, 2020*
+*Transactions on Pattern Analysis and Machine Intelligence (2020)*
 
 [paper][tpami20] · [arxiv][tpami20-arxiv] · [code][repeats]
 
@@ -24,5 +24,11 @@ This paper introduces minimal solvers that jointly solve for radial lens undisto
 ```
 
 [tpami20]: https://ieeexplore.ieee.org/document/9086062
-[tpami20-arxiv]: https://arxiv.org/pdf/1911.01507
+[tpami20-arxiv]: https://arxiv.org/abs/1911.01507
 [repeats]: https://github.com/prittjam/repeats
+
+[jbpritts]: https://scholar.google.com/citations?user=fvTKAEUAAAAJ
+[zkukelova]: https://scholar.google.com/citations?user=M4a3VyYAAAAJ
+[vlarsson]: https://scholar.google.com/citations?user=vHeD0TYAAAAJ
+[ylochman]: https://scholar.google.com/citations?user=9tfA7cMAAAAJ
+[ochum]: https://scholar.google.com/citations?user=4T42Ke0AAAAJ

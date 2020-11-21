@@ -1,12 +1,12 @@
 ---
-layout: subpage
+layout: publication
 title: Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration
 description: (bibtex) Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration
 ---
 
-Y. Lochman, O. Dobosevych, R. Hryniv, J. Pritts 
+[Yaroslava Lochman][ylochman], [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] 
 
-*Winter Conference on Applications of Computer Vision, 2021 (Oral)*
+*Winter Conference on Applications of Computer Vision, Oral (2021)*
 
 [PDF][wacv21-arxiv-pdf] · [arxiv][wacv21-arxiv] · [code][autocalib]
 
@@ -25,5 +25,10 @@ This paper proposes minimal solvers that use combinations of imaged translationa
 ```
 
 [wacv21-arxiv]: https://arxiv.org/abs/2011.08988
-[wacv21-arxiv-pdf]: https://arxiv.org/abs/2011.08988.pdf
+[wacv21-arxiv-pdf]: https://arxiv.org/pdf/2011.08988.pdf
 [autocalib]: https://github.com/ucuapps/single-view-autocalib
+
+[ylochman]: https://scholar.google.com/citations?user=9tfA7cMAAAAJ
+[jbpritts]: https://scholar.google.com/citations?user=fvTKAEUAAAAJ
+[odobosevych]: https://scholar.google.com/citations?user=Zg-YKKQAAAAJ
+[rhryniv]: https://scholar.google.com/citations?user=VqhpE1QAAAAJ
