@@ -221,7 +221,7 @@ a.sidebar-contact-item:focus {
 }
 @media (min-width: 65em) {
   .content {
-    max-width: 54em;
+    max-width: 50em;
   }
 }
 @media (min-width: 128em) {
