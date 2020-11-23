@@ -4,7 +4,7 @@ title: Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration
 description: (bibtex) Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration
 ---
 
-[Yaroslava Lochman][ylochman], [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] 
+[Yaroslava Lochman][ylochman], [Oles Dobosevych][odobosevych], [Rostyslav Hryniv][rhryniv], [James Pritts][jbpritts] 
 
 *Winter Conference on Applications of Computer Vision, Oral (2021)*
 
