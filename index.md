@@ -32,7 +32,7 @@ description: Yaroslava Lochman
 
 <br> 
 
-[<img src="./assets/thumbnails/ijcv20.png" class="img-fluid" align="left"/>](pub/ijcv20.html#title) [**Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations**](pub/ijcv20.html#title) <br> [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br>In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](pub/ijcv20.html#citing)
+[<img src="./assets/thumbnails/ijcv20.png" class="img-fluid" align="left"/>](pub/ijcv20.html#title) [**Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales**](pub/ijcv20.html#title) <br> [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br>In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](pub/ijcv20.html#citing)
 
 [tpami20]: https://ieeexplore.ieee.org/document/9086062
 [tpami20-arxiv]: https://arxiv.org/abs/1911.01507
