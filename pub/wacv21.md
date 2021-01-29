@@ -8,7 +8,7 @@ description: (bibtex) Minimal Solvers for Single-View Lens-Distorted Camera Auto
 
 *Winter Conference on Applications of Computer Vision, Oral (2021)*
 
-[PDF][wacv21-arxiv-pdf] · [arxiv][wacv21-arxiv] · [code][autocalib]
+[paper][wacv21] · [supplemental][wacv21-supp] · [arxiv][wacv21-arxiv] · [code][autocalib]
 
 ### Abstract
 This paper proposes minimal solvers that use combinations of imaged translational symmetries and parallel scene lines to jointly estimate lens undistortion with either affine rectification or focal length and absolute orientation. We use constraints provided by orthogonal scene planes to recover the focal length. We show that solvers using feature combinations can recover more accurate calibrations than solvers using only one feature type on scenes that have a balance of lines and texture. We also show that the proposed solvers are complementary and can be used together in a RANSAC-based estimator to improve auto-calibration accuracy. State-of-the-art performance is demonstrated on a standard dataset of lens-distorted urban images.
@@ -26,7 +26,8 @@ This paper proposes minimal solvers that use combinations of imaged translationa
 ```
 
 [wacv21-arxiv]: https://arxiv.org/abs/2011.08988
-[wacv21-arxiv-pdf]: https://arxiv.org/pdf/2011.08988.pdf
+[wacv21]: https://openaccess.thecvf.com/content/WACV2021/papers/Lochman_Minimal_Solvers_for_Single-View_Lens-Distorted_Camera_Auto-Calibration_WACV_2021_paper.pdf
+[wacv21-supp]: https://openaccess.thecvf.com/content/WACV2021/supplemental/Lochman_Minimal_Solvers_for_WACV_2021_supplemental.pdf
 [autocalib]: https://github.com/ucuapps/single-view-autocalib
 
 [ylochman]: https://scholar.google.com/citations?user=9tfA7cMAAAAJ

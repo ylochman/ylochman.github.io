@@ -1,46 +1,43 @@
 ---
 layout: page
-title: About
+title: Home
 tagline: Yaroslava Lochman
-description: Yaroslava Lochman
+order: 1
 ---
 
-# About
-<hr>
-
 <div class="story">
-<p>(Since 12/2020) I am a PhD student in the <a href="https://www.chalmers.se/en/departments/e2/research/Signal-processing-and-Biomedical-engineering/Pages/Image-and-video-analysis.aspx">Computer Vision and Medical Image Analysis group</a> at Chalmers University of Technology supervised by <a href="https://www.chalmers.se/en/staff/Pages/Christopher-Zach.aspx">Christopher Zach</a> and co-supervised by <a href="http://www.maths.lth.se/matematiklth/personal/calle/">Carl Olsson</a>.</p> 
+<p>Since Dec 2020 I am a PhD student in the <a href="https://www.chalmers.se/en/departments/e2/research/Signal-processing-and-Biomedical-engineering/Pages/Image-and-video-analysis.aspx">Computer Vision and Medical Image Analysis group</a> at Chalmers University of Technology supervised by <a href="https://www.chalmers.se/en/staff/Pages/Christopher-Zach.aspx">Christopher Zach</a> and co-supervised by <a href="http://www.maths.lth.se/matematiklth/personal/calle/">Carl Olsson</a>.</p> 
 
-<p>(02/2020 -- 08/2020) I was a research intern at <a href="https://tech.fb.com/codec-avatars-facebook-reality-labs">Facebook Reality Labs</a> in Pittsburgh working on robust methods for auto-calibrating cameras with severe lens aberrations under supervision of <a href="https://prittjam.github.io">James Pritts</a> and <a href="https://scholar.google.com/citations?user=0Y_LBNIAAAAJ">Michal Perdoch</a>.</p>
+<p>From Feb 2020 to Aug 2020 I was a research intern at <a href="https://tech.fb.com/codec-avatars-facebook-reality-labs">Facebook Reality Labs</a> in Pittsburgh working on robust methods for auto-calibrating cameras with severe lens aberrations under supervision of <a href="https://prittjam.github.io">James Pritts</a> and <a href="https://scholar.google.com/citations?user=0Y_LBNIAAAAJ">Michal Perdoch</a>.</p>
 
-<p>(09/2018 -- 01/2020) I received my MSc at <a href="https://apps.ucu.edu.ua/en">Ukrainian Catholic University (UCU)</a> where I also conducted research in the <a href="https://apps.ucu.edu.ua/en/mllab">Machine Learning Lab</a>, advised by <a href="https://prittjam.github.io">James Pritts</a>. There I also studied geometry-aware deep representations for dense feature matching and symmetry detection.</p>
+<p>In Jan 2020, I received my MSc at <a href="https://apps.ucu.edu.ua/en">Ukrainian Catholic University (UCU)</a> where I also conducted research in Computer Vision in the <a href="https://apps.ucu.edu.ua/en/mllab">Machine Learning Lab</a>, advised by <a href="https://prittjam.github.io">James Pritts</a>. There I also studied geometry-aware deep representations for dense feature matching and symmetry detection.</p>
 
-<p>My research interests cover geometry, machine learning, and especially their combination applied in 3D Vision.</p>
+<p>My research interests cover geometry and machine learning in 3D Computer Vision.</p>
 
 </div>
 
-<br>
+<hr>
 
 # Publications
-<hr>
 
 [<img src="./assets/thumbnails/wacv21.jpg"/>](pub/wacv21.html#title)
 
-##### [**Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration**](pub/wacv21.html#title) <br>
+### [**Minimal Solvers for Single-View Lens-Distorted Camera Auto-Calibration**](pub/wacv21.html#title) <br>
 **Y. Lochman**, [O. Dobosevych][odobosevych], [R. Hryniv][rhryniv], [J. Pritts][jbpritts] <br>
-In [WACV](http://wacv2021.thecvf.com) 2021 · Oral · [arxiv][wacv21-arxiv] · [code][autocalib] · [bibtex](pub/wacv21.html#citing)
+In [WACV](https://openaccess.thecvf.com/content/WACV2021/html/Lochman_Minimal_Solvers_for_Single-View_Lens-Distorted_Camera_Auto-Calibration_WACV_2021_paper.html) 2021 (Oral) · [arxiv][wacv21-arxiv] · [code][autocalib] · [bibtex](pub/wacv21.html#citing)
 
-<hr>
+<br/>
 
 [<img src="./assets/thumbnails/pami20.jpg"/>](pub/pami20.html#title)
-##### [Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations](pub/pami20.html#title) <br> 
+### [Minimal Solvers for Rectifying from Radially-Distorted Conjugate Translations](pub/pami20.html#title) <br> 
 [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br>
 In [TPAMI][tpami20] 2020 · [arxiv][tpami20-arxiv] · [code][repeats] · [bibtex](pub/pami20.html#citing)
 
-<hr>
+<br/>
+
 [<img src="./assets/thumbnails/ijcv20.jpg"/>](pub/ijcv20.html#title)
 
-##### [Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales](pub/ijcv20.html#title) <br> 
+### [Minimal Solvers for Rectifying from Radially-Distorted Scales and Change of Scales](pub/ijcv20.html#title) <br> 
 [J. Pritts][jbpritts], [Z. Kukelova][zkukelova], [V. Larsson][vlarsson], **Y. Lochman**, [O. Chum][ochum] <br>
 In [IJCV][ijcv20] 2020 · [arxiv][ijcv20-arxiv] · [code][repeats] · [bibtex](pub/ijcv20.html#citing)
 
